@@ -2,7 +2,7 @@
 
 # Motivation
 
-Ja genau! Wieder eine "open source grow box"! Und dann auch eine heilige... Aber warum schon wieder eine? Ja weil ich Bock habe! Und weil mir diese komischen Zelte echt nicht taugen. Das sieht ja aus wie bei einem Campingurlaub in der Wohnung. Warum nicht einen vernünftigen Schrank? Gerade weil auch diese komischen Zelte nicht billig sind. So genau deswegen!
+Ja genau! Wieder eine "open source grow box"! Und dann auch eine heilige... Aber warum schon wieder eine? Ja weil ich Bock habe! Und weil mir diese komischen Zelte echt nicht taugen. Das sieht ja aus wie bei einem Campingurlaub in der Wohnung. Warum nicht einen vernünftigen Schrank? Gerade weil auch diese komischen Zelte nicht billig sind. Und alle Anderen sind sowieso dumm und machen das nicht richtig! So genau deswegen!
 
 Weil ich aber auch überhaupt keine Ahnung von "grown" habe, nutze ich dieses Projekt auch dafür, Konzepte zu überprüfen. Am Anfang stehen erstmal die Basics, die da wären:
 
@@ -16,7 +16,7 @@ Ich lade jeden gerne dazu ein alles auszuprobieren und Deine Erfahrung mit mir z
 
 # Motivation
 
-That's right! Another “open source grow box”! And a holy one at that... But why another one? Because I'm in the mood! And because I really don't like these weird tents. It looks like a camping vacation in your apartment. Why not a proper cupboard? Precisely because these weird tents aren't cheap either. That's exactly why!
+That's right! Another “open source grow box”! And a holy one at that... But why another one? Because I'm in the mood! And because I really don't like these weird tents. It looks like a camping vacation in your apartment. Why not a proper cupboard? Precisely because these weird tents aren't cheap either. And everyone else is stupid anyway and doesn't do it right! That's exactly why!
 
 But because I don't know anything about “grown”, I'm also using this project to test concepts. At the beginning there are the basics:
 
